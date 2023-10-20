@@ -1,0 +1,39 @@
+{
+  "display": {
+    "title": "METATOKYO2",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "author-name",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "0,0",
+      "0,1",
+      "0,2",
+      "1,0",
+      "1,1",
+      "1,2"
+    ],
+    "base": "0,0"
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "fd9151cd-eaed-48bd-a040-cd4fc29a1967",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 2,
+      "cols": 3
+    }
+  }
+}
